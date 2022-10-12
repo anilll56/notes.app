@@ -1,0 +1,36 @@
+.bigConteiner{
+    width: 70%;
+}
+.contentNavbar{
+    height: 17%;
+     display: flex; 
+    /* justify-content: end; */
+    justify-content: center;
+    align-items: center;
+    background-color: #8d9db6;
+    border-radius: 5px;
+}
+.shearchcss{
+    width: 30%;
+    height: 25%;
+    padding: revert;
+    border-radius: 5px;
+}
+.middleFooter{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 200px 200px;
+    gap: 35px;
+    padding: 26px;
+    justify-content: space-evenly;
+}
+.notescss{
+    background-color:#8d9db6;
+    height: 200px;
+    width: 200px;
+}
+.notescss1{
+    background-color:yellow;
+    height: 200px;
+    width: 200px;
+}
